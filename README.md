@@ -6,7 +6,7 @@
 
 Когда поступил в вуз, начал свой путь в изучении Java. В ближайшем будущем не планирую менять язык, буду прокачивать свои скиллы на Java.
 
-**Больше информации про меня, мои проекты и пройденные курсы можно узнать в [CV](https://drive.google.com/file/d/1knHGQO0ZmLpLLqc0CUpX4fpPClSmFWVu/view)**
+**Больше информации про меня, мои проекты и пройденные курсы можно узнать в [CV](https://drive.google.com/file/d/1V6CjxnieAnzn12k50_Ke3yEwq0MlmWeR/view)**
 
 ![](https://komarev.com/ghpvc/?username=neonik-dev)
 
